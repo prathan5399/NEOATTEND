@@ -1,0 +1,34 @@
+declare module 'lucide-react' {
+  export const Zap: any;
+  export const Brain: any;
+  export const Shield: any;
+  export const Star: any;
+  export const Sparkles: any;
+  export const ArrowRight: any;
+  export const Calendar: any;
+  export const TrendingUp: any;
+  export const Award: any;
+  export const Clock: any;
+  export const CheckCircle: any;
+  export const XCircle: any;
+  export const AlertCircle: any;
+  export const User: any;
+  export const Mail: any;
+  export const BookOpen: any;
+  export const GraduationCap: any;
+  export const BarChart3: any;
+  export const PieChart: any;
+  export const ArrowLeft: any;
+  export const Users: any;
+  export const UserCheck: any;
+  export const Camera: any;
+  export const Loader: any;
+  export const MapPin: any;
+  export const FileText: any;
+  export const Download: any;
+  export const Upload: any;
+  export const Save: any;
+  export const Edit3: any;
+  export const Trash2: any;
+  export const RefreshCw: any;
+}
